@@ -8,8 +8,6 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "Jetbrains Mono NerdFont:size=12:style=Bold", "monospace:size=12" };
 static const char dmenufont[]       = "Jetbrains Mono NerdFont:size=12:style=Bold";
-static unsigned int baralpha        = 0xd0;
-static unsigned int borderalpha     = OPAQUE;
 static const char col_gray1[]       = "#0a0a0a";
 static const char col_gray2[]       = "#262626";
 static const char col_gray3[]       = "#cdd6f4";
